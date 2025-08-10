@@ -1,0 +1,16 @@
+$ git init
+Reinitialized existing Git repository in /mnt/data/week8_git_solutions/Git-HOL-1/.git/
+$ git commit -m 'Initial commit with file1.txt'
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'sandbox@d94f5e9c28dc.(none)')

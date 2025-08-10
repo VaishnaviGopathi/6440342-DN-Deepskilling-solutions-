@@ -1,0 +1,4 @@
+$ git checkout main
+error: pathspec 'main' did not match any file(s) known to git
+$ git merge new-feature
+merge: new-feature - not something we can merge

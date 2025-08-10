@@ -1,0 +1,3 @@
+$ git remote -v
+origin	https://example.com/fake-repo.git (fetch)
+origin	https://example.com/fake-repo.git (push)
